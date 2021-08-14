@@ -22,7 +22,7 @@ I love the field of Artificial Intelligence that is why I have studied different
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MayumyCH&theme=dracula)](https://github.com/MayumyCH/github-readme-stats)
 
-### **Frase que me motiva** 🌟:
+### **Phrase that motivates me** 🌟:
 
 <code>
 "Never give up, what is difficult today, tomorrow will be a conquest!" 
