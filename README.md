@@ -12,12 +12,12 @@ I love the field of Artificial Intelligence that is why I have studied different
 
 - Python
 - VBA Excel / Excel
-- Base de datos / Mysql
+- Database / Mysql
 - Git/Github
 - Power Bi
 - Javascript
 - Php
-- Consumo de apis
+- Consumption of apis
 - Firebase
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MayumyCH&theme=dracula)](https://github.com/MayumyCH/github-readme-stats)
@@ -25,7 +25,7 @@ I love the field of Artificial Intelligence that is why I have studied different
 ### **Frase que me motiva** 🌟:
 
 <code>
-"Nunca te rindas, lo que hoy es difícil, mañana será una conquista!" 
+"Never give up, what is difficult today, tomorrow will be a conquest!" 
 </code>
 <br>
 <br>
