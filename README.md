@@ -19,6 +19,7 @@ I love the field of Artificial Intelligence that is why I have studied different
 - Php
 - Consumption of apis
 - Firebase
+- Linux
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MayumyCH&theme=dracula)](https://github.com/MayumyCH/github-readme-stats)
 
