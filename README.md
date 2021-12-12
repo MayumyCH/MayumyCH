@@ -1,6 +1,7 @@
-### ¡Hi! 🙋‍♀️😊
+<img src="https://raw.githubusercontent.com/MayumyCH/MayumyCH/main/banner.png" alt="mayu"></a>
 
-My name is Mayumy and I'm originally from Perú.
+### ¡Hi! 🙋‍♀️😊
+My name is Mayumy ☠️ and I'm from Perú .
 
 I am a Data Scientist in training.
 My career is Scientific Computing and I have experience with web development, analyzing data.
@@ -18,16 +19,13 @@ I love the field of Artificial Intelligence that is why I have studied different
 - Javascript
 - Php
 - Consumption of apis
-- Firebase
 - Linux
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MayumyCH&theme=dracula)](https://github.com/MayumyCH/github-readme-stats)
 
 ### **Phrase that motivates me** 🌟:
 
-<code>
-"Never give up, what is difficult today, tomorrow will be a conquest!" 
-</code>
+**"Never give up, what is difficult today, tomorrow will be a conquest!"** 
 <br>
 <br>
 
