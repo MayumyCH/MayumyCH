@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MayumyCH/MayumyCH/main/banner.png" alt="mayu"></a>
+<img src="https://raw.githubusercontent.com/MayumyCH/MayumyCH/main/resources/banner.png" alt="mayu"></a>
 
 ### ¡Hi! 🙋‍♀️😊
 My name is Mayumy ☠️ and I'm from Perú .
