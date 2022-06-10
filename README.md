@@ -30,7 +30,6 @@ I love the field of Artificial Intelligence that is why I have studied different
 <br>
 
 ### **Social Media** 🤓
+
+<a href="https://www.linkedin.com/in/heydy-mayumy-carrasco-huaccha" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="30" width="114"></a> | <a href="https://twitter.com/MayumyCH" target="_blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height="30" width="114"></a> | <a href="https://www.instagram.com/mayumych/" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height="30" width="114"></a>
  
-<code><a href="https://www.linkedin.com/in/heydy-mayumy-carrasco-huaccha"><img width="10%" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"></a></code>
-<code><a href="https://twitter.com/MayumyCH"><img width="10%" src="https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg"></a></code>
-<code><a href="https://www.facebook.com/MayumyCH8/"><img width="10%" src="https://www.vectorlogo.zone/logos/facebook/facebook-ar21.svg"></a></code>
