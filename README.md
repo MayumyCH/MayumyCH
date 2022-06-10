@@ -1,15 +1,13 @@
 <img src="https://raw.githubusercontent.com/MayumyCH/MayumyCH/main/resources/banner.png" alt="mayu"></a>
 
-### ¡Hi! 🙋‍♀️😊
-My name is Mayumy ☠️ and I'm from Perú .
-
+### ¡Hi, my name is Mayumy 🙋‍☠️
 I am a Data Scientist in training.
 My career is Scientific Computing and I have experience with web development, analyzing data.
 I love the field of Artificial Intelligence that is why I have studied different Machine Learning courses.
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=MayumyCH&show_icons=true&theme=dracula&count_private=true&layout=compact)
 
-### **My Skills** 👩‍💻
+### 👩‍💻 **My Skills** 
 
 - Python
 - VBA Excel / Excel
@@ -25,7 +23,8 @@ I love the field of Artificial Intelligence that is why I have studied different
 
 ### **Phrase that motivates me** 🌟:
 
-**"Never give up, what is difficult today, tomorrow will be a conquest!"** 
+<div style="background: linear-gradient(to right,#dec9e9, #6247aa); color:white; font-size:150%; text-align:Center; border-radius: 20px 20px; margin: 0px 0px 0px 0px">  "Never give up, what is difficult today, tomorrow will be a conquest!  </div>
+
 <br>
 <br>
 
