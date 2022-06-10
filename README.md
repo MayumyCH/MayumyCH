@@ -19,16 +19,16 @@ I love the field of Artificial Intelligence that is why I have studied different
 - Consumption of apis
 - Linux
 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MayumyCH&theme=dracula)](https://github.com/MayumyCH/github-readme-stats)
 
-### **Phrase that motivates me** 🌟:
+### 🌟 **Phrase that motivates me 👇** :
 
-<div style="background: linear-gradient(to right,#dec9e9, #6247aa); color:white; font-size:150%; text-align:Center; border-radius: 20px 20px; margin: 0px 0px 0px 0px">  "Never give up, what is difficult today, tomorrow will be a conquest!  </div>
+**💀| "Never give up, what is difficult today, tomorrow will be a conquest! 🔥**
 
 <br>
-<br>
 
-### **Social Media** 🤓
+### 🔗 **Social Media**
 
 <a href="https://www.linkedin.com/in/heydy-mayumy-carrasco-huaccha" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="30" width="114"></a> | <a href="https://twitter.com/MayumyCH" target="_blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height="30" width="114"></a> | <a href="https://www.instagram.com/mayumych/" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height="30" width="114"></a>
  
